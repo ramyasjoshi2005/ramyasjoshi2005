@@ -4130,6 +4130,13 @@
    <g transform="translate(1041 371)"><rect width="77" height="26" rx="13" fill="#34D399" fill-opacity=".09" stroke="#34D399" stroke-opacity=".35"/><circle cx="14" cy="13" r="3" fill="#34D399"/><text x="24" y="17" fill="#F8FAFC">PyTorch</text></g>
   </g>
 
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10">
+   <g transform="translate(506 403)"><rect width="82" height="26" rx="13" fill="#22D3EE" fill-opacity=".09" stroke="#22D3EE" stroke-opacity=".35"/><circle cx="14" cy="13" r="3" fill="#34D399"/><text x="24" y="17" fill="#F8FAFC">Matplotlib</text></g>
+   <g transform="translate(596 403)"><rect width="67" height="26" rx="13" fill="#A78BFA" fill-opacity=".09" stroke="#A78BFA" stroke-opacity=".35"/><circle cx="14" cy="13" r="3" fill="#34D399"/><text x="24" y="17" fill="#F8FAFC">Keras</text></g>
+   <g transform="translate(671 403)"><rect width="105" height="26" rx="13" fill="#34D399" fill-opacity=".09" stroke="#34D399" stroke-opacity=".35"/><circle cx="14" cy="13" r="3" fill="#34D399"/><text x="24" y="17" fill="#F8FAFC">Scikit-learn</text></g>
+   <g transform="translate(784 403)"><rect width="67" height="26" rx="13" fill="#22D3EE" fill-opacity=".09" stroke="#22D3EE" stroke-opacity=".35"/><circle cx="14" cy="13" r="3" fill="#34D399"/><text x="24" y="17" fill="#F8FAFC">Plotly</text></g>
+  </g>
+
   <text x="506" y="442" fill="#22D3EE" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" letter-spacing="1.5">PROJECTS</text>
   <g font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace">
    <text x="506" y="460" fill="#F8FAFC" font-size="10.5">• SmartDoseAI</text>
